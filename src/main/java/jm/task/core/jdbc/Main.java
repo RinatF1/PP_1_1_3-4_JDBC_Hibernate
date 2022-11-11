@@ -17,7 +17,7 @@ public class Main {
         userDao.getAllUsers();
         userDao.cleanUsersTable();
 
-       // userDao.dropUsersTable();
+        userDao.dropUsersTable();
         // реализуйте алгоритм здесь
     }
 }
